@@ -1,2 +1,12 @@
 data/PH_Adm2_ProvDists.shp/
 results/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Anaconda project files (if you don't want to track them)
+anaconda_projects/
+
+# You might also want to ignore other common temporary files
+*.pyc
+__pycache__/
+.DS_Store
